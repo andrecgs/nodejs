@@ -8,9 +8,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "json-validation": "^1.0.4",
+    "jsonschema": "^1.2.2"
   },
   "devDependencies": {},
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrecgs/nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrecgs/nodejs/issues"
+  },
+  "homepage": "https://github.com/andrecgs/nodejs#readme",
   "description": ""
 }
